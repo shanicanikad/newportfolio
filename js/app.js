@@ -39,6 +39,9 @@ $("#port").fadeOut(2000,function() {
   $(this).text("My Portfolio")
 }).fadeIn(); 
 
+$("#from").fadeOut(3000,function() {
+  $(this).text("...from most recent to oldest")
+}).fadeIn(); 
 
 // Contact Page 
 
