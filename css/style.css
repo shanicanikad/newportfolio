@@ -77,7 +77,7 @@ input[type=submit]:hover, button:hover {
   padding: 20px;
 }
 
-textarea {
+textarea, #fname, #lname, #email, #subject {
     color: black
 }
 
