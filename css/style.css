@@ -10,10 +10,9 @@ body {
     background-color: black;
 }
 
-img {
-    width: auto ;
-    max-width: 100% ;
-    height: auto ;
+.pic1 {
+    width: 100%;
+    height: auto;
 }
 
   nav a {
